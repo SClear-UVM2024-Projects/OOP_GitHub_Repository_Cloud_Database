@@ -1,6 +1,4 @@
 # Samuel Clear, Michael Piscione, Kyrill Serdyuk, Max Pursche
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # query_parser.py holds the actual parser for the user's commands. Note that all string values
