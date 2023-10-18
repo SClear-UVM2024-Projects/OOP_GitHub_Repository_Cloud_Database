@@ -1,6 +1,4 @@
 # Samuel Clear, Max Pursche, Michael Piscione, Kyrill Serdyuk
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # testing_file.py: Testing Suite for access_query(), search_query(), and compound_search_query()
