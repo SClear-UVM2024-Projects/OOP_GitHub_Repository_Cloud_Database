@@ -1,6 +1,4 @@
 # Samuel Clear, Michael Piscione, Kyrill Serdyuk, Max Pursche
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # Query.py is the file the houses exec_query. exec_query takes information from the parser (user input) and uses that information
