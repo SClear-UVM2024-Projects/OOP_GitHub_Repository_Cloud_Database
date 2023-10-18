@@ -1,6 +1,4 @@
 # Samuel Clear, Michael Piscione, Kyrill Serdyuk, Max Pursche
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # interface.py is the main function for the program. The program should be run out of interface.py. It initializes the database and starts
