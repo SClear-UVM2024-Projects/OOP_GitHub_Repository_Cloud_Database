@@ -1,0 +1,780 @@
+[
+  {
+      "id": 301996810,
+      "repo_name": "DataStructures-Algorithms",
+      "description": "This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc.",
+      "created": "2020-10-07 10:08:09",
+      "language": "C++",
+      "type": "User",
+      "stars": 989,
+      "forks": 272,
+      "subscribers": 19,
+      "topics": [
+          {
+            "parent_repository": "software",
+            "name": "data-structure"
+          },
+          {
+            "parent_repository": "miscellaneous",
+            "name": "interview-questions"
+          },
+          {
+            "parent_repository": "miscellaneous",
+            "name": "cpp-cheat-sheet"
+          }
+      ]
+  },
+  {
+      "id": 20174993,
+      "repo_name": "gitjk",
+      "description": "Undo what you just did in git",
+      "created": "2014-05-26 05:26:04",
+      "language": "JavaScript",
+      "type": "User",
+      "stars": 828,
+      "forks": 13,
+      "subscribers": 12,
+      "topics": [
+          {
+            "parent_repository": "software",
+            "name": "git"
+          },
+          {
+            "parent_repository": "oop",
+            "name": "oops"
+          }
+      ]
+  },
+  {
+      "id": 67241272,
+      "repo_name": "cljs-oops",
+      "description": "ClojureScript macros for convenient native Javascript object access.",
+      "created": "2016-09-02 17:15:38",
+      "language": "Clojure",
+      "type": "Organization",
+      "stars": 322,
+      "forks": 13,
+      "subscribers": 6,
+      "topics": [
+          {
+            "parent_repository": "prog_langs",
+            "name": "clojurescript"
+          },
+          {
+            "parent_repository": "event",
+            "name": "interop"
+          },
+          {
+            "parent_repository": "miscellaneous",
+            "name": "externs"
+          }
+      ]
+  },
+  {
+      "id": 226654245,
+      "repo_name": "Oops-No-Internet",
+      "description": "Oops! No Internet! No internet dialog and snackbar for the rescue!",
+      "created": "2019-12-08 11:07:21",
+      "language": "Kotlin",
+      "type": "User",
+      "stars": 171,
+      "forks": 28,
+      "subscribers": 4,
+      "topics": [
+          {
+            "parent_repository": "devices",
+            "name": "android"
+          },
+          {
+            "parent_repository": "prog_langs",
+            "name": "kotlin"
+          },
+          {
+            "parent_repository": "network_and_usability",
+            "name": "nointernet"
+          }
+      ]
+  },
+  {
+      "id": 451787587,
+      "repo_name": "OOPS_NOTES",
+      "description": "Notes of OOPS (in c++)",
+      "created": "2022-01-25 08:03:12",
+      "language": null,
+      "type": "User",
+      "stars": 158,
+      "forks": 67,
+      "subscribers": 4
+  },
+  {
+      "id": 89589066,
+      "repo_name": "DevOops",
+      "description": "Python script to monitor services, dispatch SMS on fail, and attempt restart.",
+      "created": "2017-04-27 11:13:23",
+      "language": "Python",
+      "type": "User",
+      "stars": 125,
+      "forks": 23,
+      "subscribers": 13
+  },
+  {
+      "id": 135140316,
+      "repo_name": "object-oriented-design",
+      "description": "Oops concepts and principles in Java.",
+      "created": "2018-05-28 09:32:29",
+      "language": "Java",
+      "type": "User",
+      "stars": 77,
+      "forks": 50,
+      "subscribers": 5,
+      "topics": [
+          {
+            "parent_repository": "oop",
+            "name": "object-oriented-programming"
+          },
+          {
+            "parent_repository": "oop",
+            "name": "oop-principles"
+          },
+          {
+            "parent_repository": "oop",
+            "name": "oops-in-java"
+          }
+      ]
+  },
+  {
+      "id": 224254769,
+      "repo_name": "oops",
+      "description": "Code for Oops! Predicting Unintentional Action in Video",
+      "created": "2019-11-26 18:01:00",
+      "language": "Python",
+      "type": "Organization",
+      "stars": 68,
+      "forks": 9,
+      "subscribers": 17
+  },
+  {
+      "id": 226475401,
+      "repo_name": "ParkingLot",
+      "description": "Design a parking lot system which supports multiple features. It uses OOPS concepts and TDD approach.",
+      "created": "2019-12-07 07:50:57",
+      "language": "JavaScript",
+      "type": "User",
+      "stars": 39,
+      "forks": 13,
+      "subscribers": 3,
+      "topics": [
+          {
+            "parent_repository": "miscellaneous",
+            "name": "parking-lot"
+          },
+          {
+            "parent_repository": "prog_langs",
+            "name": "nodejs"
+          },
+          {
+            "parent_repository": "prog_langs",
+            "name": "javascript"
+          }
+      ]
+  },
+  {
+      "id": 401080939,
+      "repo_name": "Technical-Subjects",
+      "description": "The Repository Contains All the Technical Stuff's Related To SDE",
+      "created": "2021-08-29 15:49:48",
+      "language": null,
+      "type": "User",
+      "stars": 29,
+      "forks": 8,
+      "subscribers": 3,
+      "topics": [
+          {
+            "parent_repository": "oop",
+            "name": "oops"
+          },
+          {
+            "parent_repository": "prog_langs",
+            "name": "sql"
+          },
+          {
+            "parent_repository": "data_structures",
+            "name": "dbms"
+          }
+      ]
+  },
+  {
+      "id": 455326572,
+      "repo_name": "MasterSeleniumFramework_BDD",
+      "description": "Automation Testing | Web | API | Atomic Tests | Cucumber | Java | OOPS | Selenium WebDriver | TestNG | Maven | Cucumber Reports | Java mail API | Design Patterns (Page Object Model, Singleton) | Jenkins",
+      "created": "2022-02-03 20:59:25",
+      "language": "Java",
+      "type": "User",
+      "stars": 26,
+      "forks": 7,
+      "subscribers": 8,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "java"
+        },
+        {
+          "parent_repository": "software",
+          "name": "cucumber"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "selenium-webdriver"
+        }
+      ]
+  },
+  {
+      "id": 2074979,
+      "repo_name": "oopsi",
+      "description": "up-to-date code for model-based inference of spike trains from calcium imaging",
+      "created": "2011-07-19 22:38:28",
+      "language": "Matlab",
+      "type": "User",
+      "stars": 23,
+      "forks": 10,
+      "subscribers": 8
+  },
+  {
+      "id": 376236231,
+      "repo_name": "low-level-design",
+      "description": "Resources to learn Low-level System Design and prepare for Low-level design (LLD/Machine Coding) Interviews",
+      "created": "2021-06-12 08:08:53",
+      "language": null,
+      "type": "User",
+      "stars": 20,
+      "forks": 5,
+      "subscribers": 1,
+      "topics": [ 
+        {
+          "parent_repository": "low-level",
+          "name": "low-level-design-problems"
+        }, 
+        { 
+          "parent_repository": "low-level",
+          "name": "low-level-design"
+        }, 
+        {
+          "parent_repository": "low-level",
+          "name": "lld"
+        }
+    ]
+  },
+  {
+      "id": 234737539,
+      "repo_name": "shivneri",
+      "description": "Component based MVC web framework based on fort architecture targeting good code structures, modularity & performance.",
+      "created": "2020-01-18 13:19:00",
+      "language": "Crystal",
+      "type": "User",
+      "stars": 20,
+      "forks": 2,
+      "subscribers": 3,
+      "topics": [
+        {
+          "parent_repository": "software",
+          "name": "mvc-framework"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "fort"
+        },
+        {
+          "parent_repository": "devices",
+          "name": "component-based"
+        }
+      ]
+  },
+  {
+      "id": 53392286,
+      "repo_name": "python-oops",
+      "description": "Python Objects Oriented Concepts Explained with Examples",
+      "created": "2016-03-08 07:32:57",
+      "language": "Python",
+      "type": "User",
+      "stars": 16,
+      "forks": 10,
+      "subscribers": 3
+  },
+  {
+      "id": 94644,
+      "repo_name": "smc-oopsi",
+      "description": "code to implement our sequential monte carlo (smc) algorithm to perform optimal optical spike inference (oopsi) for individual neurons",
+      "created": "2008-12-21 00:17:59",
+      "language": "Matlab",
+      "type": "User",
+      "stars": 16,
+      "forks": 5,
+      "subscribers": 7
+  },
+  {
+      "id": 22738961,
+      "repo_name": "go_oops",
+      "description": "Golang Object Oriented Programming Goodies",
+      "created": "2014-08-07 22:52:57",
+      "language": "Go",
+      "type": "Organization",
+      "stars": 15,
+      "forks": 5,
+      "subscribers": 1
+  },
+  {
+      "id": 91916279,
+      "repo_name": "Oopsilon",
+      "description": "Main repository - implementation of the dynamic programming environment Oopsilon",
+      "created": "2017-05-20 21:05:51",
+      "language": "C++",
+      "type": "Organization",
+      "stars": 14,
+      "forks": 0,
+      "subscribers": 4,
+      "topics": [
+        {
+          "parent_repository": "software",
+          "name": "quicksilver"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "programming-language"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "critique"
+        }
+      ]
+  },
+  {
+      "id": 272010771,
+      "repo_name": "CPP-Advanced",
+      "description": "Mostly focused on OOPs. Useful for development purposes in C++.  ",
+      "created": "2020-06-13 13:08:02",
+      "language": null,
+      "type": "User",
+      "stars": 14,
+      "forks": 1,
+      "subscribers": 2
+  },
+  {
+      "id": 80536894,
+      "repo_name": "Data-Structure-and-Algorithms-with-JavaScript",
+      "description": "Implementation of Data Structure concept in JavaScript",
+      "created": "2017-01-31 16:11:24",
+      "language": "JavaScript",
+      "type": "User",
+      "stars": 13,
+      "forks": 10,
+      "subscribers": 2,
+      "topics": [
+        {
+          "parent_repository": "oop",
+          "name": "oops"
+        },
+        { 
+          "parent_repository": "prog_langs",
+          "name": "javascript"
+        },
+        {
+          "parent_repository": "data_structures",
+          "name": "datastructures"
+        }
+      ]
+  },
+  {
+      "id": 258413257,
+      "repo_name": "Full-Stack-Interview-Questions",
+      "description": "Interview focused concepts related to OOPS, SQL, C#, .NET, Angular, DevOps etc.",
+      "created": "2020-04-24 05:19:10",
+      "language": null,
+      "type": "User",
+      "stars": 13,
+      "forks": 2,
+      "subscribers": 3
+  },
+  {
+      "id": 68745027,
+      "repo_name": "oopsifier",
+      "description": "Oopsifier is an extension for chrome, that helps you to remove the unwanted news from your facebook news feed by adding them to the extension's list.",
+      "created": "2016-09-20 19:15:06",
+      "language": "JavaScript",
+      "type": "User",
+      "stars": 10,
+      "forks": 1,
+      "subscribers": 0
+  },
+  {
+      "id": 148626401,
+      "repo_name": "oops-android-kt",
+      "description": "A dynamic theme engine. Powered by LiveData & ViewModel.",
+      "created": "2018-09-13 11:13:38",
+      "language": "Kotlin",
+      "type": "User",
+      "stars": 10,
+      "forks": 1,
+      "subscribers": 2,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "kotlin"
+        },
+        {
+          "parent_repository": "devices",
+          "name": "android"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "runtime"
+        }
+      ]
+  },
+  {
+      "id": 419694521,
+      "repo_name": "Zuber",
+      "description": "Just a Cab Application coded for ZOHO Corp.",
+      "created": "2021-10-21 11:26:10",
+      "language": "Java",
+      "type": "User",
+      "stars": 10,
+      "forks": 0,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "java"
+        },
+        {
+          "parent_repository": "oop",
+          "name": "oops"
+        },
+        {
+          "parent_repository": "software",
+          "name": "zoho"
+        }
+      ]
+  },
+  {
+      "id": 156427749,
+      "repo_name": "Resume-Builder-Java",
+      "description": "Resume Builder using Java and JDBC",
+      "created": "2018-11-06 18:17:58",
+      "language": "Java",
+      "type": "User",
+      "stars": 9,
+      "forks": 14,
+      "subscribers": 5,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "java"
+        },
+        {
+          "parent_repository": "oop",
+          "name": "oops-in-java"
+        },
+        {
+          "parent_repository": "software",
+          "name": "jdbc"
+        }
+      ]
+  },
+  {
+      "id": 354019020,
+      "repo_name": "oops.js",
+      "description": "Prevent data loss in the form by updating the page, closing the tab or closing the browser.",
+      "created": "2021-04-02 12:54:32",
+      "language": "JavaScript",
+      "type": "User",
+      "stars": 9,
+      "forks": 0,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "javascript-library"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "prevent-lose"
+        },
+        {
+          "parent_repository": "low-level",
+          "name": "form-data"
+        }
+      ]
+  },
+  {
+      "id": 244197145,
+      "repo_name": "CSE1002-Win-Sem-20-Practice-Problems",
+      "description": "CSE1002 - OOPS - Winter Semester - Practice Problems - VPropel",
+      "created": "2020-03-01 17:55:53",
+      "language": null,
+      "type": "User",
+      "stars": 9,
+      "forks": 0,
+      "subscribers": 2
+  },
+  {
+      "id": 255929318,
+      "repo_name": "MySeleniumLearningJourney",
+      "description": "Java programs written implementing OOPs concept,major keywords like static,this,final,String,Wrapper class,Regular Expression,Collections,exception handling using Selenium Webdriver waits,Actions,Window/File Handling,Screenshot,Frames,Locators,xpath",
+      "created": "2020-04-15 13:43:45",
+      "language": "Java",
+      "type": "User",
+      "stars": 9,
+      "forks": 0,
+      "subscribers": 1
+  },
+  {
+      "id": 407469681,
+      "repo_name": "Placement_Notes",
+      "description": "This repository contains all Technical Subjects (OS + DBMS + SQL + CN + OOPs) Notes",
+      "created": "2021-09-17 08:46:07",
+      "language": null,
+      "type": "User",
+      "stars": 8,
+      "forks": 3,
+      "subscribers": 1
+  },
+  {
+      "id": 316476884,
+      "repo_name": "2-Player-Ninja-Fight-Game-in-Java",
+      "description": "This a desktop game made in Java. It uses object-oriented programming principles. ",
+      "created": "2020-11-27 10:59:11",
+      "language": "Java",
+      "type": "User",
+      "stars": 8,
+      "forks": 0,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "oop",
+          "name": "oops-in-java"
+        },
+        {
+          "parent_repository": "oop",
+          "name": "oops"
+        },
+        {
+          "parent_repository": "oop",
+          "name": "game-development"
+        }
+      ]
+  },
+  {
+      "id": 340440261,
+      "repo_name": "low-level-design-even-odd-java-threading",
+      "description": null,
+      "created": "2021-02-19 17:22:25",
+      "language": "Java",
+      "type": "User",
+      "stars": 8,
+      "forks": 4,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "low-level",
+          "name": "low-level-design"
+        },
+        {
+          "parent_repository": "low-level",
+          "name": "low-level-design-problems"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "solid-principles"
+        }
+      ]
+  },
+  {
+      "id": 248519497,
+      "repo_name": "simDFA",
+      "description": "Simulations of deterministic finite automata in different languages!",
+      "created": "2020-03-19 14:08:54",
+      "language": "Rust",
+      "type": "User",
+      "stars": 8,
+      "forks": 6,
+      "subscribers": 4,
+      "topics": [
+        {
+          "parent_repository": "low-level",
+          "name": "dfa"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "python"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "javascript"
+        }
+      ]
+  },
+  {
+      "id": 118710816,
+      "repo_name": "CPP-programming-with-Data-Structures",
+      "description": "Advanced Data Structure using C programming",
+      "created": "2018-01-24 04:16:07",
+      "language": "C++",
+      "type": "User",
+      "stars": 8,
+      "forks": 3,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "software",
+          "name": "data-structures"
+        },
+        {
+          "parent_repository": "low-level",
+          "name": "data"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "cpp"
+        }
+      ]
+  },
+  {
+      "id": 60851071,
+      "repo_name": "Hotel-management-Project",
+      "description": "I have tried to computerize the hotel management system through my project.The project is written in Python 3 that uses OOPS concept ie object and classes.",
+      "created": "2016-06-10 13:50:20",
+      "language": "Python",
+      "type": "User",
+      "stars": 7,
+      "forks": 21,
+      "subscribers": 1
+  },
+  {
+      "id": 99135047,
+      "repo_name": "8085-Emulator",
+      "description": "8085 Emulator is an c++ implementation project. It covers implementation of subjects like OOPS using C++, microprocessors, data structures. ",
+      "created": "2017-08-02 15:52:13",
+      "language": "C++",
+      "type": "User",
+      "stars": 7,
+      "forks": 7,
+      "subscribers": 1,
+      "topics": [
+          {
+            "parent_repository": "miscellaneous",
+            "name": "8085"
+          },
+          {
+            "parent_repository": "low-level",
+            "name": "microprocessors"
+          },
+          {
+            "parent_repository": "oop",
+            "name": "oops"
+          }
+      ]
+  },
+  {
+      "id": 11325229,
+      "repo_name": "LSTM_OOPS",
+      "description": "Long Short Term Memory nodes with Optimal Ordering Problem Solver training allows reinforcement learning models for LSTM networks using fitness or reward metrics.",
+      "created": "2013-07-10 21:34:50",
+      "language": "Python",
+      "type": "User",
+      "stars": 7,
+      "forks": 1,
+      "subscribers": 1
+  },
+  {
+      "id": 309977799,
+      "repo_name": "oops_a_rake",
+      "description": "Write your Rake tasks as plain-old Ruby objects",
+      "created": "2020-11-04 11:06:37",
+      "language": "Ruby",
+      "type": "User",
+      "stars": 7,
+      "forks": 1,
+      "subscribers": 2,
+      "topics": [
+        {
+          "parent_repository": "software",
+          "name": "rake"
+        }
+      ]
+  },
+  {
+      "id": 284296070,
+      "repo_name": "Learn-Java-with-Implementation-Professional-Level-1",
+      "description": "A complete series of Java Implementation from Hello World to important concepts like OOPs, Multi-Threading, Exception Handling,  Abstract Classes, Overloading/Overriding, and so on.",
+      "created": "2020-08-01 16:22:49",
+      "language": "Java",
+      "type": "User",
+      "stars": 7,
+      "forks": 4,
+      "subscribers": 0,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "java"
+        },
+        {
+          "parent_repository": "data_structures",
+          "name": "multi-threading"
+        },
+        {
+          "parent_repository": "miscellaneous",
+          "name": "declarations"
+        }
+      ]
+  },
+  {
+      "id": 367096905,
+      "repo_name": "P-BOOK",
+      "description": "assignment: basics till advance level questions (500)+ given by SWE interns~",
+      "created": "2021-05-13 15:45:07",
+      "language": "C++",
+      "type": "User",
+      "stars": 7,
+      "forks": 1,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "prog_langs",
+          "name": "cpp"
+        },
+        {
+          "parent_repository": "data_structures",
+          "name": "data-structures"
+        },
+        {
+          "parent_repository": "data_structures",
+          "name": "algorithms"
+        }
+      ]
+  },
+  {
+      "id": 367894780,
+      "repo_name": "SnakeGame",
+      "description": "Console based classic snake game implemented with object oriented principles.",
+      "created": "2021-05-16 13:55:12",
+      "language": "C#",
+      "type": "User",
+      "stars": 7,
+      "forks": 1,
+      "subscribers": 1,
+      "topics": [
+        {
+          "parent_repository": "software",
+          "name": "console-application"
+        },
+        {
+          "parent_repository": "prog_langs",
+          "name": "c-sharp"
+        },
+        {
+          "parent_repository": "oop",
+          "name": "oops"
+        }
+      ]
+  }
+]
