@@ -1,6 +1,4 @@
 # Samuel Clear, Michael Piscione, Kyrill Serdyuk, Max Pursche
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # process.py: Querying functions and Firebase Initializer Function
