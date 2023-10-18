@@ -1,6 +1,4 @@
 # Samuel Clear, Michael Piscione, Kyrill Serdyuk, Max Pursche
-# CS 3050: Software Engineering
-# Professor Hibbeler
 # 09/24/2023
 
 # query_classes.py just holds all the dataclasses used in parsing a user's query. The classes help represent what a parsed query looks
